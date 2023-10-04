@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "Lynx"
+
+title = "Eric Roch | Lynx"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+# SEO
+[params]
+  env = "production"
+  title = "Eric Roch | Lynx"
+  author = "Eric Roch"
+  description = "My social links, powered by Hugo & Lynx"
+  keywords = [ "Lynx", "Linktree", "About", "Bio" ]
+
+# Lynx Config
+[author]
+  name = "Eric Roch"
+  headline = "Verifier of Things"
+  image = "memoji.png"  # path relative to static directory
+
+  links = [
+    { email = "mailto:eric@emroch.com" },
+    { linkedin = "https://linkedin.com/in/emroch" },
+    { mastodon = "https://mastodon.world/@emroch" },
+    { github = "https://github.com/emroch" },
+    # { gitlab = "https://gitlab.com/username" },
+    { threads = { href="https://www.threads.net/@ericroch", text="Threads" } },
+    { instagram = "https://instagram.com/ericroch" },
+    { NordVPN = { href="https://nordvpn.com", text="NordVPN Referral" } },
+  ]
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.86.1"

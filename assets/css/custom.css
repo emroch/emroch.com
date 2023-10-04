@@ -1,0 +1,16 @@
+.link-NordVPN{
+    background: rgb(69,94,246);
+}
+
+.link-threads {
+  background-color: #c13584;
+  background: linear-gradient(
+    /* match Lynx Instagram gradient, but reverse it (+180deg) */
+    225deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d
+  );
+}
+
+.icon svg {
+  height: 1.2em;
+  width: 1.2em;
+}

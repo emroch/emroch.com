@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.00002"
+   height="150"
+   viewBox="0 0 39.687504 39.6875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="NordVPN.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.035545"
+     inkscape:cx="65.183067"
+     inkscape:cy="66.63158"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-84.666667,-132.82083)">
+    <path
+       class="st1"
+       d="m 88.450209,168.43374 c -2.460625,-3.38666 -3.783542,-7.4877 -3.783542,-11.66812 0,-10.98021 8.89,-19.87021 19.843753,-19.87021 10.95375,0 19.84375,8.89 19.84375,19.87021 0,4.18042 -1.32292,8.28146 -3.78355,11.66812 l -9.525,-15.50458 -0.92604,1.56104 0.92604,4.33917 -6.5352,-11.21833 -4.04813,6.8527 0.9525,4.36563 -3.439582,-5.87375 z"
+       id="path9"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583" />
+  </g>
+</svg>
