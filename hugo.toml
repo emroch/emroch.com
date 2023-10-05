@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-theme = "Lynx"
+theme = "lynx"
 
 title = "Eric Roch | Lynx"
 # copyright = "Copy, _right?_ :thinking_face:"
