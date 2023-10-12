@@ -28,7 +28,7 @@ title = "Eric Roch | Lynx"
     # { gitlab = "https://gitlab.com/username" },
     { threads = { href="https://www.threads.net/@ericroch", text="Threads" } },
     { instagram = "https://instagram.com/ericroch" },
-    { NordVPN = { href="https://nordvpn.com", text="NordVPN Referral" } },
+    { NordVPN = { href="https://ref.nordvpn.com/hBBzNJcmVuo", text="NordVPN Referral" } },
   ]
 
 enableEmoji = true
